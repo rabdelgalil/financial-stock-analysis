@@ -4,7 +4,7 @@
 
 This project tests a common investing assumption: that companies with strong fundamentals (profitable, liquid, and low in debt) also make strong stocks. Using several years of financial statement data and historical stock prices, I analyze price movements, market trends, and volatility, and build regression models to measure how much fundamentals actually explain stock performance.
 
-**Author:** Ruba Abdelgalil
+**Author:** Ruba Abdelgalil<br>
 **Notebook:** [`Ruba_Abdelgalil_Independent_Project.ipynb`](Ruba_Abdelgalil_Independent_Project.ipynb)
 
 ---
